@@ -1,0 +1,22 @@
+{
+  "name": "tech-assesment-int",
+  "version": "1.0.0",
+  "description": "This is a JavaScript task. File structure is set up and don't need to be touched. By loading index.html directly in the browser you can see if your results are correct. You only need to work in main.js file, inside of the function outputDate();",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamieking1996/tech-assessment-int.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamieking1996/tech-assessment-int/issues"
+  },
+  "homepage": "https://github.com/jamieking1996/tech-assessment-int#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
